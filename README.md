@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Problem Solving Skill, Android**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VaibhavShanbhag?tab=repositories](https://github.com/VaibhavShanbhag?tab=repositories)
+- 👨‍💻 All of my projects are available at [**here**](https://github.com/VaibhavShanbhag?tab=repositories)
 
 - 💬 Ask me about **C++, Java**
 
-- 📫 How to reach me **vaibhavshanbhag467@gmail.com**
+- 📫 How to reach me [**Click here**](mailto:vaibhavshanbhag467@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
