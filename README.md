@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Shanbhag</h1>
-<h3 align="center">Interested in Android Developer and IT Engico</h3>
+<h3 align="center">Interested in Android Development and IT Engico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavshanbhag&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavshanbhag" /> </p>
 
@@ -30,6 +30,6 @@
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavshanbhag&show_icons=true&locale=en&layout=compact" alt="vaibhavshanbhag" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vaibhavshanbhag&show_icons=true&locale=en" alt="vaibhavshanbhag" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavshanbhag&show_icons=true&locale=en" alt="vaibhavshanbhag" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavshanbhag&" alt="vaibhavshanbhag" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavshanbhag&" alt="vaibhavshanbhag" /></p>
