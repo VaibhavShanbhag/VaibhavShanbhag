@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavshanbhag&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavshanbhag" /> </p>
 
-- 🔭 I’m currently working on **Sangeet App**
+- 🔭 I’m currently working on **Namaste App and Portfolio Website**
 
 - 🌱 I’m currently learning **Problem Solving Skill, Android**
 
