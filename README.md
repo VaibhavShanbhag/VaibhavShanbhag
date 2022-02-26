@@ -18,7 +18,11 @@
 <a href="https://linkedin.com/in/vaibhav-shanbhag-7136191b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-shanbhag-7136191b9" height="30" width="40" /></a>
 <a href="https://instagram.com/__vaibhav__22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__vaibhav__22" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC2_DjSDqHzxGDf7ltu75cmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vaibhav shnabhag" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaibhavshanbhag22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhavshanbhag22" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Coding Profile:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/vaibhavshanbhag467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhavshanbhag467" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vaibhavshanbhag467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaibhavshanbhag467" height="30" width="40" /></a>
 </p>
 
